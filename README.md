@@ -2,6 +2,7 @@
 
 ![Discord Bot](https://img.shields.io/badge/Discord-Python%20Bot-blue)
 ![FiveM Integration](https://img.shields.io/badge/FiveM-Integration-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive Discord bot for managing FiveM gaming communities with role management, moderation tools, and server monitoring.
 
