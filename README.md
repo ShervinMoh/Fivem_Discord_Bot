@@ -63,3 +63,6 @@ A comprehensive Discord bot for managing FiveM gaming communities with role mana
    'YOUR CATEGORY ID'   # Ticket category ID
    'YOUR_TOKEN'         # Discord bot token
    'YOUR FIVEM SERVER IP' # FiveM server API endpoint
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
